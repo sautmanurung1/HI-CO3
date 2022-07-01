@@ -1,0 +1,15 @@
+footer .list-group .list-group-item {
+  background-color: unset;
+  color: white;
+  padding: 5px 0;
+}
+
+.btn-rounded {
+  display: flex;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  justify-content: center;
+  align-items: center;
+  margin-right: 5px;
+}
